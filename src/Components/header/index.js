@@ -4,7 +4,7 @@ function App() {
     return (
         <header className="App">
             Header
-             
+            
             <div style={{ display: 'flex' }}>
                 <div> About Me </div>
                 <div> Projects </div>
